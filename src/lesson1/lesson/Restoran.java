@@ -1,4 +1,4 @@
-package lesson1;
+package lesson1.lesson;
 
 public class Restoran {
     String result;

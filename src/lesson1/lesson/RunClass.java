@@ -1,4 +1,8 @@
-package lesson1;
+package lesson1.lesson;
+
+import lesson1.lesson.Group;
+import lesson1.lesson.Person;
+import lesson1.lesson.Restoran;
 
 public class RunClass {
     public static void main(String[] args) {
