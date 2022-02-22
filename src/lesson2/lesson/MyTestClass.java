@@ -1,5 +1,7 @@
 package lesson2.lesson;
 
+import lesson2.lesson.MyException;
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
